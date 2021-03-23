@@ -1,0 +1,5 @@
+ignored:
+  - DL3016 # Krey: Do not require pinning of package versions
+
+trustedRegistries:
+  - docker.io
